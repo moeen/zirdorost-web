@@ -1,0 +1,5 @@
+.env
+static/subs/*
+!static/subs/index.html
+zirdorost_library*
+__pycache__
